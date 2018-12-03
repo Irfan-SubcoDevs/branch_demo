@@ -9,3 +9,5 @@ This is in master branch
 5. This is in master branch
 
 6. This is in master branch
+
+7. This is in master branch
